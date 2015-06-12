@@ -20,3 +20,4 @@
 - **Ctrl g** select sequence of identical words one by one
 - **Ctrl CMD g** select sequence of identical words all at once
 - **Shift CMD v** paste from clipboard history
+- **Shift CMD A** Find action by name

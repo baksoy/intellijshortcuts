@@ -6,7 +6,7 @@
 - **Alt Up Arrow** extend the selection 
 - **Alt Shift Arrow** move the line you are on up or down
 - **CMD ,** quickly get to Preferences dialog
-- **CMD Down Arrow** quickly get to the method definition of the method your cursor is on  
+- **CMD B** quickly get to the method definition of the method your cursor is on  
 - **Shift CMD** collapse all regions
 - **Shift CMD +** expand all regions
 - **CMD .** collapse or expand the region you are in 
@@ -21,3 +21,5 @@
 - **Ctrl CMD g** select sequence of identical words all at once
 - **Shift CMD v** paste from clipboard history
 - **Shift CMD A** Find action by name
+- **CMD O** Nagivate to any project class
+- **CMD Shift O** Nagivate to any file

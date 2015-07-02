@@ -23,4 +23,4 @@
 - **Shift CMD A** Find action by name
 - **CMD O** Nagivate to any project class
 - **CMD Shift O** Nagivate to any file
-- **CMD Alt O** Extract to a new Method from selected code
+- **CMD Alt M** Extract to a new Method from selected code

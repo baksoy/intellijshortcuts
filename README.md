@@ -25,3 +25,4 @@
 - **CMD Shift O** Nagivate to any file
 - **Option CMD M** Extract to a new Method from selected code
 - **Alt Enter** When a word turns red, put your cursor on it and press Alt + Enter to get context sensitive options
+- **Shift CMD Backspace** Takes you back to the space where you made your last edit. Keep pressing to traverse up.
